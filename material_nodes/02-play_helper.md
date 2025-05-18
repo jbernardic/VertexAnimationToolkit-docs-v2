@@ -24,13 +24,13 @@ Use this if you want finer transitions and don't need looping.
 ## Outputs
 
 ==- Start Frame
-Connect this to [](Play-Animation.md#start-frame) pin of Play Animation node.
+Connect this to [Start Frame](./01-play_animation.md#inputs) pin of Play Animation node.
 ===
 
 ==- End Frame
-Connect this to [](Play-Animation.md#end-frame) pin of Play Animation node.
+Connect this to [End Frame](./01-play_animation.md#inputs) pin of Play Animation node.
 ===
 
 ==- Max Frames
-Connect this to [](Play-Animation.md#max-frames) pin of Play Animation node.
+Connect this to [Max Frames](./01-play_animation.md#inputs) pin of Play Animation node.
 ===
